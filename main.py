@@ -1,1 +1,2 @@
-print("Hello i'm programmer")
+print("Hello I'm programmer")
+print("hi")
